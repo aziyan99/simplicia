@@ -549,6 +549,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-left: 1rem;
 }
 
+.mb-2{
+  margin-bottom: 0.5rem;
+}
+
 .block{
   display: block;
 }
@@ -695,6 +699,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   align-items: center;
 }
 
+.justify-between{
+  justify-content: space-between;
+}
+
 .gap-4{
   gap: 1rem;
 }
@@ -811,6 +819,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .border-b{
   border-bottom-width: 1px;
+}
+
+.border-t{
+  border-top-width: 1px;
 }
 
 .border-gray-300{
@@ -1230,8 +1242,17 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-right: -1.5rem;
   }
 
+  .sm\:-mx-2{
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+  }
+
   .sm\:flex{
     display: flex;
+  }
+
+  .sm\:hidden{
+    display: none;
   }
 
   .sm\:w-52{
@@ -1319,6 +1340,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   .lg\:-mx-8{
     margin-left: -2rem;
     margin-right: -2rem;
+  }
+
+  .lg\:-mx-4{
+    margin-left: -1rem;
+    margin-right: -1rem;
   }
 
   .lg\:grid-cols-4{
