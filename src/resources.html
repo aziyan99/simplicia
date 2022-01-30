@@ -845,7 +845,6 @@
                             Active
                         </span>
                     </div>
-
                     <!-- Alert -->
                     <h3 class="text-xl mb-2 mt-5">Alert</h3>
                     <div class="block bg-white rounded-lg shadow px-3 py-2 space-y-3">
@@ -1068,7 +1067,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="hidden sm:block" aria-hidden="true">
                         <div class="py-5">
                             <div class="border-t border-gray-200"></div>
@@ -1491,7 +1489,7 @@
                         };
                     },
                     fetchOptions() {
-                        fetch('https://randomuser.me/api/?results=5')
+                        fetch('https://randomuser.me/api/?results=500')
                             .then(response => response.json())
                             .then(data => this.options = data);
                     },
