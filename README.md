@@ -3,7 +3,7 @@
 ![img-1]('./../images/simplicia.png)
 
 ## About
-Simple admin dashboard using tailwindcss
+Simple admin dashboard using tailwindcss inspired by Laravel Nova UI
 
 ## Installation
 Install depedencies:
