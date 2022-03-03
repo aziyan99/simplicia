@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/css/style.css -o ./dist/css/style.css --watch",
+    "start": "node index.js",
+    "dev": "node index.js && npx tailwindcss -i ./src/css/tailwindcss.css -o ./src/css/style.css --watch",
+    "build": "npx tailwindcss -i ./src/css/tailwindcss.css -o ./dist/css/style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,5 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.0.17"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.4.0",
+    "live-server": "^1.2.1"
   }
 }
