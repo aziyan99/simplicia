@@ -1,4 +1,4 @@
-# Simple Support Ticket System
+# Simplicia
 
 ![img-1]('./../images/simplicia.png)
 
