@@ -6,7 +6,7 @@
 - install express and ejs
 - change sidebar size
 
-#### 1.2.0 (2022-05-15)
+#### 1.0.0 (2022-05-15)
 - Update issue templates
 - Create CONTRIBUTING.md
 - Merge pull request #2 from aziyan99/add-code-of-conduct-1
