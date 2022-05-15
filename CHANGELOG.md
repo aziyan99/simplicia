@@ -1,3 +1,11 @@
+#### 1.0.0 (2022-05-15)
+- change padding size
+- change padding
+- change sidebar organizing
+- remove tracking-wide text
+- remove br and h-full class
+- update sidebar link
+
 #### 1.2.0 (2022-05-15)
 - refactor projet to use express js
 - remove static html file
