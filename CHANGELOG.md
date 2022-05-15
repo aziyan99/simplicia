@@ -1,4 +1,4 @@
-#### 1.0.0 (2022-05-15)
+#### 1.2.0 (2022-05-15)
 - change padding size
 - change padding
 - change sidebar organizing
