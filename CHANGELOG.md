@@ -1,2 +1,51 @@
-#### 1.0.0 (2022-05-15)
+#### 1.2.0 (2022-05-15)
+- refactor projet to use express js
+- remove static html file
+- add changelog
+- update image url
+- install express and ejs
+- change sidebar size
 
+#### 1.2.0 (2022-05-15)
+- Update issue templates
+- Create CONTRIBUTING.md
+- Merge pull request #2 from aziyan99/add-code-of-conduct-1
+- Create CODE_OF_CONDUCT.md
+- Update README.md
+- Update README.md
+- Merge pull request #1 from aziyan99/add-license-1
+- Create LICENSE
+- merge dev
+- change name and logo
+- add screenshoot
+- update readme
+- add readme
+- add reset password
+- add login page
+- update profile and resources
+- add profile and update links
+- update profile image
+- uninstall unneeded package
+- update gitignore
+- update command
+- update gitignore
+- update command
+- change live server and css
+- install live server locally
+- update radom user api
+- add searchable select
+- remove unused components
+- add forms
+- add doc
+- add alert
+- add badges and update button
+- add buttons
+- add alpine js
+- add table and card to resources
+- increase sidebar x space
+- add table
+- update sidebar, topbar, and card
+- update style css
+- commit uncommit
+- add sidebar
+- initial commit
