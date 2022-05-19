@@ -4,6 +4,7 @@
 .max-h-select {
     max-height: 300px;
 }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
