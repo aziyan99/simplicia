@@ -18,7 +18,7 @@ npm run dev
 
 Build assets
 ```
-npm run build
+npm run tailwind
 ```
 
 Compiled css file can be found at `dist` folder.
